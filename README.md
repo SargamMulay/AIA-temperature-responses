@@ -1,1 +1,1 @@
-# Atmospheric-Imaging-Assembly-AIA-temperature-response
+# AIA-temperature-response
