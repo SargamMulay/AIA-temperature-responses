@@ -22,7 +22,9 @@ For other versions check - https://hesperia.gsfc.nasa.gov/ssw/sdo/aia/response/
 - IDL code adopted from Del Zanna et al. 2011, A&A, 535, A46 - see Appendix  
 - You can use the latest version of the CHIANTI database (depending on your local version of the SolarSoft CHIANTI database) to calculate the emissivities of the lines in the wavelength array you have chosen, with the flexibility of choosing the electron number density/pressure and elemental abundances, depending on the observations.  
 
-Importance - Using the correct temperature responses for AIA in Differential Emission Measure (DEM) analysis is crucial for studying solar plasma temperature.  
+**Importance**  
+- Using the correct temperature responses for AIA in Differential Emission Measure (DEM) analysis is crucial for studying solar plasma temperature.
+- More details in Mulay, S. M., et al. 2017, A&A, 598, A11
 
 **References**    
 1) Del Zanna et al. 2013, A&A 558, A73  
