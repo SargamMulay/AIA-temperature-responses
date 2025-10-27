@@ -2,7 +2,7 @@
 
 The Atmospheric Imaging Assembly (AIA) is an EUV/UV imaging instrument on board NASA's Solar Dynamics Observatory (SDO).
 
-The AIA consists of four telescopes to provide narrow-band imaging of seven extreme ultraviolet (EUV) band passes centered on spectral lines: Fe XVIII (94 Å), Fe XVIII, Fe XXI (131 Å), Fe IX (171 Å), Fe XII, XXIV (193 Å), Fe XIV (211 Å), He II (304 Å), and Fe XVI (335 Å). 
+The AIA comprises four telescopes that provide narrow-band imaging of seven extreme ultraviolet (EUV) band passes centered on specific spectral lines: Fe XVIII (94 Å), Fe XVIII, Fe XXI (131 Å), Fe IX (171 Å), Fe XII, XXIV (193 Å), Fe XIV (211 Å), He II (304 Å), and Fe XVI (335 Å). 
 
 This repository contains Interactive Data Language (IDL) code (plot_aia_temp_resp.pro) to plot AIA wavelength responses and temperature responses using the CHIANTI atomic database (https://www.chiantidatabase.org/). The IDL isothermal.pro procedure is used to calculate the isothermal spectrum, which is then folded with the instrument's effective areas and plate scale to determine AIA temperature responses.
 
